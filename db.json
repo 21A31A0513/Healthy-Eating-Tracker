@@ -1,0 +1,1063 @@
+{
+  "users": [
+    {
+      "id": "1743867404841",
+      "email": "example@gmail.com",
+      "name": "satwik",
+      "password": "123456789",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:36:44.841Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867407656",
+      "email": "example@gmail.com",
+      "name": "satwik",
+      "password": "123456789",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:36:47.656Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867408615",
+      "email": "example@gmail.com",
+      "name": "satwik",
+      "password": "123456789",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:36:48.615Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867409111",
+      "email": "example@gmail.com",
+      "name": "satwik",
+      "password": "123456789",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:36:49.111Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867409347",
+      "email": "example@gmail.com",
+      "name": "satwik",
+      "password": "123456789",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:36:49.347Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867409550",
+      "email": "example@gmail.com",
+      "name": "satwik",
+      "password": "123456789",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:36:49.550Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867409740",
+      "email": "example@gmail.com",
+      "name": "satwik",
+      "password": "123456789",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:36:49.740Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867409939",
+      "email": "example@gmail.com",
+      "name": "satwik",
+      "password": "123456789",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:36:49.939Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867410125",
+      "email": "example@gmail.com",
+      "name": "satwik",
+      "password": "123456789",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:36:50.125Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867443340",
+      "email": "jsatwik04@gmail.com",
+      "name": "satwik",
+      "password": "hi@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:37:23.340Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867446439",
+      "email": "jsatwik04@gmail.com",
+      "name": "satwik",
+      "password": "hi@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:37:26.439Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867446906",
+      "email": "jsatwik04@gmail.com",
+      "name": "satwik",
+      "password": "hi@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:37:26.906Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867447125",
+      "email": "jsatwik04@gmail.com",
+      "name": "satwik",
+      "password": "hi@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:37:27.125Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867447290",
+      "email": "jsatwik04@gmail.com",
+      "name": "satwik",
+      "password": "hi@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:37:27.290Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867455708",
+      "email": "jsatwik04@gmail.com",
+      "name": "satwik",
+      "password": "hi@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:37:35.708Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867456206",
+      "email": "jsatwik04@gmail.com",
+      "name": "satwik",
+      "password": "hi@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:37:36.206Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867456870",
+      "email": "jsatwik04@gmail.com",
+      "name": "satwik",
+      "password": "hi@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:37:36.870Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867457385",
+      "email": "jsatwik04@gmail.com",
+      "name": "satwik",
+      "password": "hi@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:37:37.385Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867656840",
+      "email": "vyshu@gmail.com",
+      "name": "J sarada",
+      "password": "vyshu@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:40:56.840Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867658833",
+      "email": "vyshu@gmail.com",
+      "name": "J sarada",
+      "password": "vyshu@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:40:58.833Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867659246",
+      "email": "vyshu@gmail.com",
+      "name": "J sarada",
+      "password": "vyshu@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:40:59.246Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867659511",
+      "email": "vyshu@gmail.com",
+      "name": "J sarada",
+      "password": "vyshu@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:40:59.511Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867659704",
+      "email": "vyshu@gmail.com",
+      "name": "J sarada",
+      "password": "vyshu@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:40:59.704Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867659871",
+      "email": "vyshu@gmail.com",
+      "name": "J sarada",
+      "password": "vyshu@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:40:59.871Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867660004",
+      "email": "vyshu@gmail.com",
+      "name": "J sarada",
+      "password": "vyshu@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:41:00.004Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867660136",
+      "email": "vyshu@gmail.com",
+      "name": "J sarada",
+      "password": "vyshu@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:41:00.136Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867660237",
+      "email": "vyshu@gmail.com",
+      "name": "J sarada",
+      "password": "vyshu@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:41:00.237Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867660371",
+      "email": "vyshu@gmail.com",
+      "name": "J sarada",
+      "password": "vyshu@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:41:00.371Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867660485",
+      "email": "vyshu@gmail.com",
+      "name": "J sarada",
+      "password": "vyshu@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:41:00.485Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867660603",
+      "email": "vyshu@gmail.com",
+      "name": "J sarada",
+      "password": "vyshu@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:41:00.603Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867660720",
+      "email": "vyshu@gmail.com",
+      "name": "J sarada",
+      "password": "vyshu@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:41:00.720Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867660961",
+      "email": "vyshu@gmail.com",
+      "name": "J sarada",
+      "password": "vyshu@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:41:00.961Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867661037",
+      "email": "vyshu@gmail.com",
+      "name": "J sarada",
+      "password": "vyshu@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:41:01.037Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867661171",
+      "email": "vyshu@gmail.com",
+      "name": "J sarada",
+      "password": "vyshu@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:41:01.171Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867661320",
+      "email": "vyshu@gmail.com",
+      "name": "J sarada",
+      "password": "vyshu@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:41:01.320Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867661418",
+      "email": "vyshu@gmail.com",
+      "name": "J sarada",
+      "password": "vyshu@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:41:01.418Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867661536",
+      "email": "vyshu@gmail.com",
+      "name": "J sarada",
+      "password": "vyshu@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:41:01.536Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867661687",
+      "email": "vyshu@gmail.com",
+      "name": "J sarada",
+      "password": "vyshu@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:41:01.687Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867661803",
+      "email": "vyshu@gmail.com",
+      "name": "J sarada",
+      "password": "vyshu@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:41:01.803Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867661936",
+      "email": "vyshu@gmail.com",
+      "name": "J sarada",
+      "password": "vyshu@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:41:01.936Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867662053",
+      "email": "vyshu@gmail.com",
+      "name": "J sarada",
+      "password": "vyshu@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:41:02.053Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867662186",
+      "email": "vyshu@gmail.com",
+      "name": "J sarada",
+      "password": "vyshu@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:41:02.186Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867662304",
+      "email": "vyshu@gmail.com",
+      "name": "J sarada",
+      "password": "vyshu@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:41:02.304Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867662436",
+      "email": "vyshu@gmail.com",
+      "name": "J sarada",
+      "password": "vyshu@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:41:02.436Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867662569",
+      "email": "vyshu@gmail.com",
+      "name": "J sarada",
+      "password": "vyshu@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:41:02.569Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867662670",
+      "email": "vyshu@gmail.com",
+      "name": "J sarada",
+      "password": "vyshu@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:41:02.670Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867662804",
+      "email": "vyshu@gmail.com",
+      "name": "J sarada",
+      "password": "vyshu@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:41:02.804Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    },
+    {
+      "id": "1743867807189",
+      "email": "vyshu@gmail.com",
+      "name": "vyshu",
+      "password": "vyshu@2004",
+      "isActive": true,
+      "createdAt": "2025-04-05T15:43:27.189Z",
+      "profile": {
+        "height": 0,
+        "weight": 0,
+        "age": 0,
+        "gender": "male",
+        "activityLevel": "moderate"
+      },
+      "goals": {
+        "dailyCalories": 2000,
+        "protein": 150,
+        "carbs": 250,
+        "fats": 70,
+        "water": 2000
+      }
+    }
+  ],
+  "foodLogs": [],
+  "mealPlans": [],
+  "progress": []
+}
